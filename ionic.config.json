@@ -1,0 +1,7 @@
+{
+  "name": "rialda-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
